@@ -46,7 +46,7 @@ Install **Python 3** on your computer.
 4. Run the program using:
 
 ```bash
-python "python project 3(1).py"
+python "collection manipulator.py"
 ```
 
 ## ▶️ Usage
@@ -68,7 +68,7 @@ The available menu options are directly implemented in the uploaded project.
 ```text
 Student-Data-Organizer/
 │
-├── python project 3(1).py
+├── collection manipulator.py
 └── README.md
 ```
 
